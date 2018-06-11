@@ -1,3 +1,9 @@
 [submodule "NASA"]
 	path = NASA
 	url = https://github.com/julietta007/NASA.git
+[submodule "ionic-cms"]
+	path = ionic-cms
+	url = https://github.com/julietta007/ionic-cms.git
+[submodule "toh-demo"]
+	path = toh-demo
+	url = https://github.com/julietta007/toh-demo.git

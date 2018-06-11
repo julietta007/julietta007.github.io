@@ -1,4 +1,28 @@
-.row {display: inline;}
-.col {display: inline;}
+/*row {display: inline;}
+.col {.display: inline;}
 .card {display: inline;}
-.card-body {display: inline;}
+.card-body {display: inline;}*/
+div.a {
+    line-height: 10px;
+}
+.jumbotron {text-align: center; padding: 6rem 0 1rem !important;}
+
+ul.squares {
+    list-style-type: square;
+  }
+
+  ul.nobullets {
+    list-style-type: none;
+  }
+
+  ul.headline5 {
+    list-style-type: none;
+    margin: 0;
+    padding: 2;
+  }
+
+  main{margin-top: 60px;}
+ 
+  .contact {
+      padding-top: 55px;
+  }
